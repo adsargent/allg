@@ -1,0 +1,2 @@
+# allg
+allGSplashPage
